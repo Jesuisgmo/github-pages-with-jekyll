@@ -1,4 +1,3 @@
-# Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
-*added something for the pull request*
+
+I'm glad you are here.
